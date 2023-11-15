@@ -1,0 +1,8 @@
+ <tr>
+                      <th>No</th>
+                      <th>penjual</th>
+                      <th>pembeli</th>
+                      <th>barang</th>
+                      <th>harga</th>
+                      
+                    </tr>
